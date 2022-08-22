@@ -1,5 +1,5 @@
 # Information
-![Tools: 0](https://img.shields.io/badge/TOOLS-0-blue)
+![Releases: 0](https://img.shields.io/badge/Releases-0-blue)
 ![Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue)
 ![issues](https://img.shields.io/github/issues/RachLeY/Tools4PC)
 
