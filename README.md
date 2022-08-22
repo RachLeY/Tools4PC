@@ -1,4 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="20" role="img" aria-label="TOOLS: 0"><title>TOOLS: 0</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="64" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="47" height="20" fill="#555"/><rect x="47" width="17" height="20" fill="#97ca00"/><rect width="64" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="245" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="370">TOOLS</text><text x="245" y="140" transform="scale(.1)" fill="#fff" textLength="370">TOOLS</text><text aria-hidden="true" x="545" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="70">0</text><text x="545" y="140" transform="scale(.1)" fill="#fff" textLength="70">0</text></g></svg>
+# Information
+![Tools: 0](https://img.shields.io/badge/TOOLS-0-blue)
+![Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue)
+![issues](https://img.shields.io/github/issues/RachLeY/Tools4PC)
 
-# Tools4PC
-Python Tools for PCS, such as stressers, tests, programs, etc...
+## Installation guide
+Go to the releases and choose one of them, each one is for a different tool. Download the .exe file, if you do not trust .exe files download the .zip.
+
+## .EXE guide
+Make sure to have python installed, after open up the .exe file and you should be ready to go.
+
+## .ZIP guide
+Extract the .zip file you downloaded from releases, and run the file called `start.py`. If you do not have the python app installed (but python installed), open up a terminal, and run `cd /path/to/file/` and then run `python start.py`. **MAKE SURE TO INSTALL ALL PACKAGES USING `pip install -r requirements.txt`**
